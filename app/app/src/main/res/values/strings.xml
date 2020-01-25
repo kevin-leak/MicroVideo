@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">micro</string>
+    <string name="label_gallery_select_max_size">max you can select %d </string>
+    <string name="title_select_gallery">Up Vedio</string>
+</resources>
